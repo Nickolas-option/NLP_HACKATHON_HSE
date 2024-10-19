@@ -12,7 +12,8 @@ pip install -r requirements.txt
 merge_task_to_solution(path_to_solutions="./data/raw/test/solutions.xlsx",
                            path_to_tasks="./data/raw/test/tasks.xlsx",
                            save_to="./data/processed/test/solutions.xlsx")
+3. запустить tuning.py
                            
-3. затем запустить файл main.py
+4. затем запустить файл main.py
 
 
